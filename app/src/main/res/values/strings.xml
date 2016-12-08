@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login-Google</string>
+    <string name="login_error">Error when making login</string>
+</resources>
